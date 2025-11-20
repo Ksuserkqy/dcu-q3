@@ -1,0 +1,10 @@
+torch
+modelscope
+huggingface_hub
+transformers==4.56.2
+numpy==1.26.4
+accelerate
+fastapi
+uvicorn
+pydantic
+psutil
